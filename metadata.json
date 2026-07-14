@@ -1,0 +1,6 @@
+{
+  "name": "MTS Attendance",
+  "description": "A customized, secure, and easy-to-use attendance tracker for Multitech Technical Services L.L.C workers and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
